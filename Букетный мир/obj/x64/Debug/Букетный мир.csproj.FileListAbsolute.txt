@@ -1,0 +1,67 @@
+C:\Users\бубан\Desktop\Букетный мир\bin\x64\Debug\ЦветочныйМагазин.accdb
+C:\Users\бубан\Desktop\Букетный мир\bin\x64\Debug\Букетный мир.exe.config
+C:\Users\бубан\Desktop\Букетный мир\bin\x64\Debug\Букетный мир.exe
+C:\Users\бубан\Desktop\Букетный мир\bin\x64\Debug\Букетный мир.pdb
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный мир.csproj.AssemblyReference.cache
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormDatabase.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormStart.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.Properties.Resources.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный мир.csproj.GenerateResource.cache
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный мир.csproj.CoreCompileInputs.cache
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный мир.exe
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный мир.pdb
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormRef.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddProducts.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddProviders.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddSale.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddSupplies.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormChangeProducts.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormChangeProviders.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormAccounts.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddAccounts.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormReset.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\bin\x64\Debug\ЦветочныйМагазин.accdb
+C:\Users\user\Desktop\сахил 046\Букетный мир\bin\x64\Debug\Букетный мир.exe.config
+C:\Users\user\Desktop\сахил 046\Букетный мир\bin\x64\Debug\Букетный мир.exe
+C:\Users\user\Desktop\сахил 046\Букетный мир\bin\x64\Debug\Букетный мир.pdb
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный мир.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.FormAccounts.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddAccounts.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddProducts.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddProviders.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddSale.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddSupplies.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.FormChangeProducts.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.FormChangeProviders.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.FormDatabase.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.FormRef.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.FormReset.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.FormStart.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный_мир.Properties.Resources.resources
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный мир.csproj.GenerateResource.cache
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный мир.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный мир.exe
+C:\Users\user\Desktop\сахил 046\Букетный мир\obj\x64\Debug\Букетный мир.pdb
+C:\Users\сахил\Desktop\Букетный мир\bin\x64\Debug\ЦветочныйМагазин.accdb
+C:\Users\сахил\Desktop\Букетный мир\bin\x64\Debug\Букетный мир.exe.config
+C:\Users\сахил\Desktop\Букетный мир\bin\x64\Debug\Букетный мир.exe
+C:\Users\сахил\Desktop\Букетный мир\bin\x64\Debug\Букетный мир.pdb
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный мир.csproj.AssemblyReference.cache
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormAccounts.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddAccounts.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddProducts.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddProviders.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddSale.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormAddSupplies.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormChangeProducts.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormChangeProviders.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormDatabase.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormRef.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormReset.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.FormStart.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный_мир.Properties.Resources.resources
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный мир.csproj.GenerateResource.cache
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный мир.csproj.CoreCompileInputs.cache
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный мир.exe
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный мир.pdb
+C:\Users\сахил\Desktop\Букетный мир\obj\x64\Debug\Букетный мир.csproj.ResolveComReference.cache

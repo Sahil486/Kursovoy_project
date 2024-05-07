@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|c:\\users\\\u0441\u0430\u0445\u0438\u043B\\documents\\github\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0431\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formreset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formaddsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formaddsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formaddsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formaddsale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\classcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:classcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formchangeproviders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formchangeproviders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formaddsupplies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formaddsupplies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formaddaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formaddaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formchangeproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formchangeproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formaddproviders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formaddproviders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formaddproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\formaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E75613AC-DBE0-499F-A916-8EEB8DDD1A08}|\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj|solutionrelative:formaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDatabase.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormDatabase.cs",
+              "RelativeDocumentMoniker": "FormDatabase.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormDatabase.cs [Design]",
+              "RelativeToolTip": "FormDatabase.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.739Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormStart.cs",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormStart.cs",
+              "RelativeDocumentMoniker": "FormStart.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormStart.cs",
+              "RelativeToolTip": "FormStart.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:56:57.846Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormStart.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormStart.cs",
+              "RelativeDocumentMoniker": "FormStart.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormStart.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormStart.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormAddSale.cs",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddSale.cs",
+              "RelativeDocumentMoniker": "FormAddSale.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddSale.cs",
+              "RelativeToolTip": "FormAddSale.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAjwCkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAddSale.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddSale.cs",
+              "RelativeDocumentMoniker": "FormAddSale.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddSale.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddSale.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormDatabase.cs",
+              "RelativeDocumentMoniker": "FormDatabase.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormDatabase.cs",
+              "RelativeToolTip": "FormDatabase.cs",
+              "ViewState": "AQIAAFYBAAAAAAAAAAAwwGgBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj",
+              "RelativeDocumentMoniker": "\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj",
+              "RelativeToolTip": "\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-09T12:31:53.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReset.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormReset.cs",
+              "RelativeDocumentMoniker": "FormReset.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormReset.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormReset.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormReset.cs",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormReset.cs",
+              "RelativeDocumentMoniker": "FormReset.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormReset.cs",
+              "RelativeToolTip": "FormReset.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvy8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:42:32.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassCon.cs",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\ClassCon.cs",
+              "RelativeDocumentMoniker": "ClassCon.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\ClassCon.cs",
+              "RelativeToolTip": "ClassCon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T05:45:07.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormChangeProviders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormChangeProviders.cs",
+              "RelativeDocumentMoniker": "FormChangeProviders.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormChangeProviders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormChangeProviders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormAddSupplies.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddSupplies.cs",
+              "RelativeDocumentMoniker": "FormAddSupplies.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddSupplies.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddSupplies.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormAddAccounts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddAccounts.cs",
+              "RelativeDocumentMoniker": "FormAddAccounts.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddAccounts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddAccounts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormChangeProducts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormChangeProducts.cs",
+              "RelativeDocumentMoniker": "FormChangeProducts.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormChangeProducts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormChangeProducts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormRef.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormRef.cs",
+              "RelativeDocumentMoniker": "FormRef.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormRef.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormRef.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormAddProviders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddProviders.cs",
+              "RelativeDocumentMoniker": "FormAddProviders.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddProviders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddProviders.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormAddProducts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddProducts.cs",
+              "RelativeDocumentMoniker": "FormAddProducts.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddProducts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAddProducts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormAccounts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Documents\\GitHub\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAccounts.cs",
+              "RelativeDocumentMoniker": "FormAccounts.cs",
+              "ToolTip": "C:\\Users\\\u0441\u0430\u0445\u0438\u043B\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAccounts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\Desktop\\\u0411\u0443\u043A\u0435\u0442\u043D\u044B\u0439 \u043C\u0438\u0440\\FormAccounts.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:57:41.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

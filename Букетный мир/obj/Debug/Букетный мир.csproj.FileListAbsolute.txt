@@ -1,0 +1,24 @@
+C:\Visual Studio\Букетный мир\bin\Debug\Букетный мир.exe.config
+C:\Visual Studio\Букетный мир\bin\Debug\Букетный мир.exe
+C:\Visual Studio\Букетный мир\bin\Debug\Букетный мир.pdb
+C:\Visual Studio\Букетный мир\obj\Debug\Букетный мир.csproj.AssemblyReference.cache
+C:\Visual Studio\Букетный мир\obj\Debug\Букетный_мир.Properties.Resources.resources
+C:\Visual Studio\Букетный мир\obj\Debug\Букетный мир.csproj.GenerateResource.cache
+C:\Visual Studio\Букетный мир\obj\Debug\Букетный мир.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Букетный мир\obj\Debug\Букетный мир.exe
+C:\Visual Studio\Букетный мир\obj\Debug\Букетный мир.pdb
+C:\Visual Studio\Букетный мир\obj\Debug\Букетный_мир.FormDatabase.resources
+C:\Visual Studio\Букетный мир\obj\Debug\Букетный_мир.FormStart.resources
+C:\Visual Studio\Букетный мир\bin\Debug\ЦветочныйМагазин.accdb
+C:\Users\бубан\Desktop\Букетный мир\bin\Debug\ЦветочныйМагазин.accdb
+C:\Users\бубан\Desktop\Букетный мир\bin\Debug\Букетный мир.exe.config
+C:\Users\бубан\Desktop\Букетный мир\bin\Debug\Букетный мир.exe
+C:\Users\бубан\Desktop\Букетный мир\bin\Debug\Букетный мир.pdb
+C:\Users\бубан\Desktop\Букетный мир\obj\Debug\Букетный мир.csproj.AssemblyReference.cache
+C:\Users\бубан\Desktop\Букетный мир\obj\Debug\Букетный_мир.FormDatabase.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\Debug\Букетный_мир.FormStart.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\Debug\Букетный_мир.Properties.Resources.resources
+C:\Users\бубан\Desktop\Букетный мир\obj\Debug\Букетный мир.csproj.GenerateResource.cache
+C:\Users\бубан\Desktop\Букетный мир\obj\Debug\Букетный мир.csproj.CoreCompileInputs.cache
+C:\Users\бубан\Desktop\Букетный мир\obj\Debug\Букетный мир.exe
+C:\Users\бубан\Desktop\Букетный мир\obj\Debug\Букетный мир.pdb
